@@ -72,7 +72,7 @@ text-align:center;
 
 .pay, .allmusic, .lord{
 font-family:monospace;
-
+font-size: 35px;
 text-align:center;
 }
 
@@ -86,10 +86,16 @@ border: 1px solid gray;
    
     }
 
+.end {
 
+    
+    border: 1px solid darkgrey;
+    padding: 0px;
+    text-align: center;
+    margin-top: 100%; 
+    font-size: 7px;
 
-
-
+}
 
 
 
